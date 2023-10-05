@@ -21,7 +21,7 @@
   left: 50%;
   top: 50%;
   transform-origin: 0% 0%;
-  transform: rotate(60deg);
+  transform: rotate(0deg);
 }
 
 .line:nth-of-type(2) {
